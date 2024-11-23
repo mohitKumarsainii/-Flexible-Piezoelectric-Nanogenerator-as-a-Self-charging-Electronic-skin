@@ -51,10 +51,14 @@ The nanogenerator works by utilizing the piezoelectric properties of PVDF:
 ## **Demonstration Videos**  
 ### **1. Fabrication Process**  
 Watch the step-by-step process of fabricating the Flexible Piezoelectric Nanogenerator:  
+###  [! Video Available]
+
+
 [![Fabrication Process](https://img.youtube.com/vi/MdwNbIpxEtA/0.jpg)](https://youtube.com/shorts/MdwNbIpxEtA?feature=shared)  
 
 ### **2. Working Demonstration**  
 See the final output as the nanogenerator produces up to 60 volts of electricity:  
+###   [! Video Available]
 [![Working Demonstration](https://img.youtube.com/vi/UntBbxmsX0c/0.jpg)](https://youtube.com/shorts/UntBbxmsX0c?feature=shared)  
 
 ---
